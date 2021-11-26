@@ -1,0 +1,6 @@
+c:\users\абдумуталиб\documents\visual studio 2015\Projects\HW_4.2\HW_4.2\bin\Debug\HW_4.2.exe.config
+c:\users\абдумуталиб\documents\visual studio 2015\Projects\HW_4.2\HW_4.2\obj\Debug\HW_4.2.csprojResolveAssemblyReference.cache
+c:\users\абдумуталиб\documents\visual studio 2015\Projects\HW_4.2\HW_4.2\bin\Debug\HW_4.2.exe
+c:\users\абдумуталиб\documents\visual studio 2015\Projects\HW_4.2\HW_4.2\bin\Debug\HW_4.2.pdb
+c:\users\абдумуталиб\documents\visual studio 2015\Projects\HW_4.2\HW_4.2\obj\Debug\HW_4.2.exe
+c:\users\абдумуталиб\documents\visual studio 2015\Projects\HW_4.2\HW_4.2\obj\Debug\HW_4.2.pdb

@@ -1,0 +1,5 @@
+c:\users\абдумуталиб\documents\visual studio 2015\Projects\HW_4.3\HW_4.3\bin\Debug\HW_4.3.exe.config
+c:\users\абдумуталиб\documents\visual studio 2015\Projects\HW_4.3\HW_4.3\bin\Debug\HW_4.3.exe
+c:\users\абдумуталиб\documents\visual studio 2015\Projects\HW_4.3\HW_4.3\bin\Debug\HW_4.3.pdb
+c:\users\абдумуталиб\documents\visual studio 2015\Projects\HW_4.3\HW_4.3\obj\Debug\HW_4.3.exe
+c:\users\абдумуталиб\documents\visual studio 2015\Projects\HW_4.3\HW_4.3\obj\Debug\HW_4.3.pdb
